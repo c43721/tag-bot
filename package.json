@@ -1,0 +1,10 @@
+{
+  "name": "tag-bot",
+  "version": "1.0.0",
+  "description": "Tags for everyone",
+  "main": "dist/index.js",
+  "repository": "https://github.com/c43721/tag-bot.git",
+  "author": "c43721",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0"
+}
