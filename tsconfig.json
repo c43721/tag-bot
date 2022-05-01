@@ -2,7 +2,6 @@
   "extends": "@sapphire/ts-config",
   "compilerOptions": {
     "module": "esnext",
-    "moduleResolution": "node",
     "rootDir": "src",
     "target": "esnext",
     "outDir": "dist",
