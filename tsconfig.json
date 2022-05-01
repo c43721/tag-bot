@@ -1,0 +1,16 @@
+{
+  "extends": "@sapphire/ts-config",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "target": "esnext",
+    "outDir": "dist",
+    "tsBuildInfoFile": "dist/.tsbuildinfo",
+    "skipLibCheck": true,
+    "baseUrl": "src",
+    "lib": ["DOM", "ESNext"],
+    "removeComments": true,
+    "paths": {}
+  }
+}
